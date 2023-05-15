@@ -5,8 +5,8 @@
 🌎 Born in Bahia/Brazil. <br>
 🖥️ Studying systems analysis and development.
 
-### ✏️ Introducion!
-📖 I'm a newbie in this huge universe of programming, I started my studies in February 2023 
+### 📖Introducion!
+✏️ I'm a newbie in this huge universe of programming, I started my studies in February 2023 
 currently being introduced with __C language__. My goal is to specialize in __Front End__, but as knowledge is always good in the distant future I would like to be a __Full Stack__ programmer.
 
 ### 🔍 Where to find me?
